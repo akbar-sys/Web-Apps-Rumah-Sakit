@@ -1,2 +1,2 @@
-# Web-Apps-Rumah-Sakit
-kelompok 6
+# kelompok 6
+print("yoii")
