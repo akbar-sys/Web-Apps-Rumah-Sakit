@@ -1,2 +1,2 @@
 # kelompok 6
-print("yoii")
+WebApps Rumah Sakit
